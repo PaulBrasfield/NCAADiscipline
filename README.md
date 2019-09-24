@@ -12,33 +12,37 @@ Python 3 is required to run this program.
 
 ### Installing
 
-'''
+```
 Click on 'Clone or Download' in the top right
-'''
+```
 
-'''
+```
 Click 'Download ZIP'
-'''
+```
 
-'''
+```
 Open the ZIP file and extract the folder onto your computer.
-'''
+```
 
-'''
+```
 Open the folder and double-click on the 'Discipline.py' to run the program.
-'''
+```
 
-Example of program:
-'''
+**Example of program:**
+
+```
 Checking on players...
+
 There has been an infraction. Taking action...
 
-The player who has committed the infraction is #27. Does a player with this
-number exist on your team? (Enter Y or N) y
+The player who has committed the infraction is #27. Does a player with that
+number exist on your team? Y or N: Y
+
 -------------------------------------
 #27 has broken team rules.
+
 #27 is suspended for 2 games.
-'''
+```
 
 ## Built With
 
